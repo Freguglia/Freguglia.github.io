@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data visualization | Victor Freguglia</title>
+    <link>https://freguglia.github.io/en/tag/data-visualization/</link>
+      <atom:link href="https://freguglia.github.io/en/tag/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data visualization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Victor Freguglia 2021</copyright><lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://freguglia.github.io/images/icon_hu4e385332721607628a50ff786838242e_13132_512x512_fill_lanczos_center_2.png</url>
+      <title>Data visualization</title>
+      <link>https://freguglia.github.io/en/tag/data-visualization/</link>
+    </image>
+    
+    <item>
+      <title>ggfocus</title>
+      <link>https://freguglia.github.io/en/software/ggfocus/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://freguglia.github.io/en/software/ggfocus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

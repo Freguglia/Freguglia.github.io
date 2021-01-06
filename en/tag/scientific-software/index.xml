@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific Software | Victor Freguglia</title>
+    <link>https://freguglia.github.io/en/tag/scientific-software/</link>
+      <atom:link href="https://freguglia.github.io/en/tag/scientific-software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Victor Freguglia 2021</copyright><lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://freguglia.github.io/images/icon_hu4e385332721607628a50ff786838242e_13132_512x512_fill_lanczos_center_2.png</url>
+      <title>Scientific Software</title>
+      <link>https://freguglia.github.io/en/tag/scientific-software/</link>
+    </image>
+    
+    <item>
+      <title>mrf2d</title>
+      <link>https://freguglia.github.io/en/software/mrf2d/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://freguglia.github.io/en/software/mrf2d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
